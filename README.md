@@ -4,7 +4,8 @@ Contactpedia
 Contactpedia stores and manages the contact information of the clients with an provision to add modify or delete the contact information.
 
 Getting Started
-Run Contacts.sql script file in SQL server to create initial database and ContactInformation table.
+
+Run ContactScript.sql script file in SQL server to create initial database (UserContactDB) and ContactInformation table.
 Unzip contactpedia.zip folder and follow below steps:
 
 Copy the project and open 2 different instances of the application in visual studio 2017. ContactpediaService app and ContactpediaApp should be run separately to run a local version of it.
